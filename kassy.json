@@ -1,0 +1,14 @@
+{
+	"name": "crossing",
+	"version": 1.0,
+	"startup": "crossing.js",
+	"command": "crossing",
+	"config": [
+        [ "commandPrefix", "The default prefix for each command.", "/" ],
+        [ "bindings", "" , []]
+    ],
+	"help": [
+		["{{commandPrefix}}crossing", "A basic module example for kassy.json"]
+
+	]	
+}

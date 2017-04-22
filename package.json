@@ -1,0 +1,16 @@
+{
+  "name": "crossing",
+  "version": "1.0.0",
+  "author": "TuringTW",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuringTW/crossing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TuringTW/crossing/issues"
+  },
+  "homepage": "https://github.com/TuringTW/crossing",
+  "dependencies": {
+  }
+}
